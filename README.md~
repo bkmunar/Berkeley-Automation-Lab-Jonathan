@@ -10,9 +10,5 @@ then, move the resulting ost.txt files into the ($find uvc_camera) directoray an
 $ mv ost.txt ost.ini
 $ rosrun camera_calibration_parsers convert ost.ini left_calibration.yaml
 
-2) make sure that the static transform of camera to ground is what you want it to be.
-
-3) adjust your marker list file to include all the markers that are going to be detected
-
-
+2) 
 
