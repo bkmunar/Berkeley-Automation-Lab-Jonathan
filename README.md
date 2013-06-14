@@ -1,5 +1,12 @@
 Berkeley-Automation-Lab-Jonathan
 ================================
+launch file calls:
+-ar_pose (i've adjusted)
+-uvc_camera/launch/stereo_node.launch (i probably adjusted)
+-stereo_image_proc
+-tf
+-pose_estimator (my own node)          
+
 Before launching each instance, one must specify and
 check a number of parameters.
 
