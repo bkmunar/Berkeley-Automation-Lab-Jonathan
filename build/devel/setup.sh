@@ -6,7 +6,7 @@
 # Supported command line options:
 # --extend: skips the undoing of changes from a previously sourced setup file
 
-_SETUP_UTIL="/home/jonkim93/catkin_ws/src/raven_pose_estimator/build/devel/_setup_util.py"
+_SETUP_UTIL="/home/meg/catkin_ws/src/raven_pose_estimator/build/devel/_setup_util.py"
 
 if [ ! -f "$_SETUP_UTIL" ]; then
   echo "Missing Python script: $_SETUP_UTIL"

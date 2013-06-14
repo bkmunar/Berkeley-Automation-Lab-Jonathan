@@ -1,7 +1,7 @@
 FILE(REMOVE_RECURSE
   "CMakeFiles/gtest_main.dir/src/gtest_main.cc.o"
-  "/home/jonkim93/catkin_ws/src/raven_pose_estimator/lib/libgtest_main.pdb"
-  "/home/jonkim93/catkin_ws/src/raven_pose_estimator/lib/libgtest_main.so"
+  "/home/meg/catkin_ws/src/raven_pose_estimator/lib/libgtest_main.pdb"
+  "/home/meg/catkin_ws/src/raven_pose_estimator/lib/libgtest_main.so"
 )
 
 # Per-language clean rules from dependency scanning.

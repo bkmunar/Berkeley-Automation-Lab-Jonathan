@@ -3,5 +3,5 @@
 
 CATKIN_SHELL=zsh
 emulate sh # emulate POSIX
-. "/home/jonkim93/catkin_ws/src/raven_pose_estimator/build/devel/setup.sh"
+. "/home/meg/catkin_ws/src/raven_pose_estimator/build/devel/setup.sh"
 emulate zsh # back to zsh mode
